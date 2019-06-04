@@ -1,5 +1,5 @@
 /************************************************************************************/
-/*Name        : Fenil Patel,Jinesh Patel,Vrajang Parikh                             */
+/*Name        : Fenil Patel                                                         */
 /*Course Code : ICS4U1                                                              */
 /*Date        : December 11, 2019                                                   */
 /*Assignment  : ISU                                                                 */
@@ -81,7 +81,7 @@ void introduction()
 
 	// displaying creators 
 	settextstyle(3,0,1);
-	outtextxy(130,450, "BY: Fenil Patel, Jinesh Patel and Vrajang Parikh");
+	outtextxy(130,450, "BY:Vrajang Parikh");
 
 	//  calling image 
 	readimagefile("intro.gif",210,235,410,435);
