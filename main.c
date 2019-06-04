@@ -1,5 +1,5 @@
 /************************************************************************************/
-/*Name        : Fenil Patel,Jinesh Patel,Vrajang Parikh                             */
+/*Name        :Vrajang Parikh                                                       */
 /*Course Code : ICS4U1                                                              */
 /*Date        : December 11, 2019                                                   */
 /*Assignment  : ISU                                                                 */
