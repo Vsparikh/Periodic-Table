@@ -1,0 +1,2806 @@
+
+Classification	Hydrogen is a nonmetal. It can become metallic at very high pressures.
+Color	colorless
+Atomic weight	1.0079
+State	gas
+Melting point	-259.14 oC, 14.01 K
+Boiling point	-252.87 oC, 20.28 K
+Electrons:	1
+Protons:	1
+Neutrons in most abundant isotope:	0
+Electron shells	1
+Electron configuration	1s1
+Density @ 20oC	0.0000899 g/cm3
+Atomic volume	14.4 cm3/mol
+Structure	hcp: hexagonal close packed (as solid at low temperatures)
+Hardness	–
+Specific heat capacity	14.304 J g-1 K-1
+Heat of fusion	0.117 kJ mol-1 of H2
+Heat of atomization	218 kJ mol-1
+Heat of vaporization	0.904 kJ mol-1 of H2
+1st ionization energy	1312 kJ mol-1
+2nd ionization energy	kJ mol-1
+3rd ionization energy	11815.0 kJ mol-1
+Electron affinity	72.7711 kJ mol-1
+
+Classification:	Helium is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	4.00260
+State:	gas
+Melting point:	-272.2 oC, 0.95 K
+Note: At normal atmospheric pressure, helium does not solidify and so has no melting point. The melting point quoted above is under a pressure of 25 atmospheres.
+Boiling point:	-268.9 oC, 4.2 K
+Electrons:	2
+Protons:	2
+Neutrons in most abundant isotope:	2
+Electron shells:	2
+Electron configuration:	1s2
+Density @ 20oC:	0.0001787 g/cm3
+Atomic volume:	27.2 cm3/mol
+Structure:	usually hexagonal close-packed
+(v.high pressure needed to solidify helium)
+Specific heat capacity	5.193 J g-1 K-1
+Heat of fusion	0.0138 kJ mol-1
+Heat of atomization	0
+Heat of vaporization	0.0845 kJ mol-1
+1st ionization energy	2372.3 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	0 kJ mol-1
+
+Classification	Lithium is an alkali metal
+Color	silvery
+Atomic weight	6.941
+State	solid
+Melting point	180.54 oC, 453.69 K
+Boiling point	1347 oC, 1615 K
+Electrons:	3
+Protons:	3
+Neutrons in most abundant isotope:	4
+Electron shells	2,1
+Electron configuration	1s2 2s1
+Density @ 20oC	0.53 g/cm3
+Atomic volume	13.10 cm3/mol
+Structure	bcc body-centered cubic
+Hardness	0.6 mohs
+Specific heat capacity	3.58 J g-1 K-1
+Heat of fusion	3.00 kJ mol-1
+Heat of atomization	159 kJ mol-1
+Heat of vaporization	147.1 kJ mol-1
+1st ionization energy	520.2 kJ mol-1
+2nd ionization energy	7298.1 kJ mol-1
+3rd ionization energy	11815.0 kJ mol-1
+Electron affinity	59.63 kJ mol-1
+
+Classification:	Beryllium is an alkali earth metal
+Color:	steel gray
+Atomic weight:	9.01218
+State:	solid
+Melting point:	1278 oC, 1551.2 K
+Boiling point:	2469 oC, 2742 K
+Electrons:	4
+Protons:	4
+Neutrons in most abundant isotope:	5
+Electron shells:	2,2
+Electron configuration:	1s2 2s2
+Density @ 20oC:	1.848 g/cm3
+Atomic volume:	4.9 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	5.5 mohs
+Specific heat capacity	1.82 J g-1 K-1
+Heat of fusion	7.895 kJ mol-1
+Heat of atomization	324 kJ mol-1
+Heat of vaporization	297 kJ mol-1
+1st ionization energy	899.5 kJ mol-1
+2nd ionization energy	1757.1 kJ mol-1
+3rd ionization energy	14848.7 kJ mol-1
+Electron affinity	0 kJ mol-1
+
+Classification:	Boron is a metalloid
+Color:	black
+Atomic weight:	10.81
+State:	solid
+Melting point:	2075 oC, 2348 K
+Boiling point:	3727 oC , 4000 K
+Electrons:	5
+Protons:	5
+Neutrons in most abundant isotope:	6
+Electron shells:	2,3
+Electron configuration:	1s2 2s2 2p1
+Density @ 20oC:	2.34 g/cm3
+Atomic volume:	4.6 cm3/mol
+Structure:	rhombohedral; B12 is icosahedral.
+Hardness:	9.3 mohs
+Specific heat capacity	1.02 J g-1 K-1
+Heat of fusion	50.2 kJ mol-1
+Heat of atomization	563 kJ mol-1
+Heat of vaporization	480 kJ mol-1
+1st ionization energy	800.6 kJ mol-1
+2nd ionization energy	2427.1 kJ mol-1
+3rd ionization energy	3659.7 kJ mol-1
+Electron affinity	26.7 kJ mol-1
+
+Classification:	Carbon is a nonmetal
+Color:	black (graphite), transparent (diamond)
+Atomic weight:	12.011
+State:	solid
+Melting point:	3550 oC, 3823 K
+Note: At normal atmospheric pressure, carbon does not melt when heated, it sublimes. i.e. it undergoes a phase change directly from solid to gas. If the pressure is increased to 10 atmospheres carbon (graphite) is observed to melt at 3550 °C.
+Boiling point:	3825 oC, 4098 K
+The boiling point quoted is recorded when the graphite vapor pressure above subliming graphite reaches 1 atmosphere.
+Electrons:	6
+Protons:	6
+Neutrons in most abundant isotope:	6
+Electron shells:	2,4
+Electron configuration:	1s2 2s2 2p2
+Density @ 20oC:	2.267 g/cm3 (gr), 3.513 g/cm3 (di)
+Atomic volume:	5.31 cm3/mol (gr), 3.42 cm3/mol (di)
+Structure:	hexagonal layers (graphite), tetrahedral (diamond)
+Hardness:	0.5 mohs (graphite), 10.0 mohs (diamond)
+Specific heat capacity	0.71 J g-1 K-1 (graphite),
+0.5091 J g-1 K-1 (diamond)
+Heat of fusion	117 kJ mol-1 (graphite)
+Heat of atomization	717 kJ mol-1
+Heat of vaporization	710.9 kJ mol-1
+1st ionization energy	1086.5 kJ mol-1
+2nd ionization energy	2352.6 kJ mol-1
+3rd ionization energy	4620.5 kJ mol-1
+Electron affinity	121.55 kJ mol-1
+
+Classification:	Nitrogen is a gas and a nonmetal
+Color:	colorless
+Atomic weight:	14.0067
+State:	gas
+Melting point:	-210.1 oC, 63.05 K
+Boiling point:	-195.8 oC, 77.4 K
+Electrons:	7
+Protons:	7
+Neutrons in most abundant isotope:	7
+Electron shells:	2,5
+Electron configuration:	1s2 2s2 2p3
+Density @ 20oC:	0.0012506 g/cm3
+Atomic volume:	17.3 cm3/mol
+Structure:	hcp: hexagonal close-packed
+Specific heat capacity	1.04 J g-1 K-1
+Heat of fusion	0.720 kJ mol-1 of N2
+Heat of atomization	473 kJ mol-1
+Heat of vaporization	5.57 kJ mol-1 of N2
+1st ionization energy	1402.3 kJ mol-1
+2nd ionization energy	2856 kJ mol-1
+3rd ionization energy	4578 kJ mol-1
+Electron affinity	-6.75 kJ mol-1
+
+Classification:	Oxygen is a chalcogen and a nonmetal
+Color:	colorless
+Atomic weight:	15.9994
+State:	gas
+Melting point:	-218.3 oC, 54.8 K
+Boiling point:	-182.9 oC, 90.2 K
+Electrons:	8
+Protons:	8
+Neutrons in most abundant isotope:	8
+Electron shells:	2,6
+Electron configuration:	1s2 2s2 2p4
+Density @ 20oC:	0.001429 g/cm3
+Atomic volume:	14.0 cm3/mol
+Structure:	bcc: body-centered cubic when solid
+Specific heat capacity	0.918 J g-1 K-1
+Heat of fusion	0.444 kJ mol-1 of O2
+Heat of atomization	249 kJ mol-1
+Heat of vaporization	6.82 kJ mol-1 of O2
+1st ionization energy	1313.9 kJ mol-1
+2nd ionization energy	3388.2 kJ mol-1
+3rd ionization energy	5300.3 kJ mol-1
+Electron affinity	140.97875 kJ mol-1
+
+Classification:	Fluorine is a halogen and a nonmetal
+Color:	pale yellow
+Atomic weight:	18.998403
+State:	gas
+Melting point:	-219.6 oC, 53.6 K
+Boiling point:	-188.1 oC, 85.1 K
+Electrons:	9
+Protons:	9
+Neutrons in most abundant isotope:	10
+Electron shells:	2,7
+Electron configuration:	1s2 2s2 2p5
+Density @ 20oC:	0.001696 g/cm3
+Atomic volume:	17.1 cm3/mol
+Structure:	cubic crystals in solid phase
+Hardness:	–
+Specific heat capacity	0.82 J g-1 K-1
+Heat of fusion	0.510 kJ mol-1 of F2
+Heat of atomization	79 kJ mol-1
+Heat of vaporization	6.62 kJ mol-1 of F2
+1st ionization energy	1681 kJ mol-1
+2nd ionization energy	3374.1 kJ mol-1
+3rd ionization energy	6050.3 kJ mol-1
+Electron affinity	328 kJ mol-1
+
+Classification:	Neon is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	20.180
+State:	gas
+Melting point:	-248.57 oC, 24.53 K
+Boiling point:	-246.0 oC, 27.1 K
+Electrons:	10
+Protons:	10
+Neutrons in most abundant isotope:	10
+Electron shells:	2,8
+Electron configuration:	1s2 2s2 2p6
+Density @ 20oC:	0.0009 g/cm3
+Atomic volume:	16.7 cm3/mol
+Structure:	fcc: face-centered cubic
+Specific heat capacity	0.904 J g-1 K-1
+Heat of fusion	0.3317 kJ mol-1
+Heat of atomization	0 kJ mol-1
+Heat of vaporization	1.7326 kJ mol-1
+1st ionization energy	2080.6 kJ mol-1
+2nd ionization energy	3952.2 kJ mol-1
+3rd ionization energy	6121.9 kJ mol-1
+Electron affinity	–
+
+Classification:	Sodium is an alkali metal
+Color:	silvery-white
+Atomic weight:	22.98977
+State:	solid
+Melting point:	97.72 oC, 370.87 K
+Boiling point:	883 oC, 1156 K
+Electrons:	11
+Protons:	11
+Neutrons in most abundant isotope:	12
+Electron shells:	2,8,1
+Electron configuration:	1s2 2s2 2p6 3s1
+Density @ 20oC:	0.971 g/cm3
+Atomic volume:	23.7 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	0.5 mohs
+Specific heat capacity	1.23 J g-1 K-1
+Heat of fusion	2.598 kJ mol-1
+Heat of atomization	107 kJ mol-1
+Heat of vaporization	96.960 kJ mol-1
+1st ionization energy	495.8 kJ mol-1
+2nd ionization energy	4562.4 kJ mol-1
+3rd ionization energy	6912.2 kJ mol-1
+Electron affinity	52.868 kJ mol-1
+
+Classification:	Magnesium is an alkali earth metal
+Color:	silvery-white
+Atomic weight:	24.305
+State:	solid
+Melting point:	650 oC, 923 K
+Boiling point:	1090 oC, 1363 K
+Electrons:	12
+Protons:	12
+Neutrons in most abundant isotope:	12
+Electron shells:	2,8,2
+Electron configuration:	1s2 2s2 2p6 3s2
+Density @ 20oC:	1.738 g/cm3
+Atomic volume:	13.97 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	2.5 mohs
+Specific heat capacity	1.02 J g-1 K-1
+Heat of fusion	8.48 kJ mol-1
+Heat of atomization	146 kJ mol-1
+Heat of vaporization	127.4 kJ mol-1
+1st ionization energy	737.7 kJ mol-1
+2nd ionization energy	1450.6 kJ mol-1
+3rd ionization energy	7732.6 kJ mol-1
+Electron affinity	78 kJ mol-1
+
+Classification:	Aluminum is an ‘other metal’
+Color:	silvery
+Atomic weight:	26.98154 g/mol
+State:	solid
+Melting point:	660.32 oC, 933.57 K
+Boiling point:	2466.85 oC, 2740.00 K
+Electrons:	13
+Protons:	13
+Neutrons in most abundant isotope:	14
+Electron shells:	2,8,3
+Electron configuration:	1s2 2s2 2p6 3s2 3p1
+Density @ 20oC:	2.702 g/cm3
+Atomic volume:	9.98 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	2.8 mohs
+Specific heat capacity	0.90 J g-1 K-1
+Heat of fusion	10.790 kJ mol-1
+Heat of atomization	326 kJ mol-1
+Heat of vaporization	293.40 kJ mol-1
+1st ionization energy	577.6 kJ mol-1
+2nd ionization energy	1816.6 kJ mol-1
+3rd ionization energy	2744.7 kJ mol-1
+Electron affinity	42.6 kJ mol-1
+
+Classification:	Silicon is a metalloid
+Color:	silvery
+Atomic weight:	28.0855
+State:	solid
+Melting point:	1414 oC, 1687 K
+Boiling point:	3265 oC, 3538 K
+Electrons:	14
+Protons:	14
+Neutrons in most abundant isotope:	14
+Electron shells:	2,8,4
+Electron configuration:	1s2 2s2 2p6 3s2 3p2
+Density @ 20oC:	2.33 g/cm3
+Atomic volume:	12.1 cm3/mol
+Structure:	diamond structure
+Hardness:	7 mohs
+Specific heat capacity	0.71 J g-1 K-1
+Heat of fusion	50.21 kJ mol-1
+Heat of atomization	456 kJ mol-1
+Heat of vaporization	359 kJ mol-1
+1st ionization energy	786.4 kJ mol-1
+2nd ionization energy	1577 kJ mol-1
+3rd ionization energy	3231.4 kJ mol-1
+Electron affinity	133.6 kJ mol-1
+
+Classification:	Phosphorus is a nonmetal
+Color:	White phosphorus is usually pale yellow
+Atomic weight:	30.97376
+State:	solid
+Melting point:	44.2 oC, 317.3 K
+Boiling point:	280.5 oC, 553.7 K
+Electrons:	15
+Protons:	15
+Neutrons in most abundant isotope:	16
+Electron shells:	2,8,5
+Electron configuration:	1s2 2s2 2p6 3s2 3p3
+Density @ 20oC:	1.82 g/cm3
+Atomic volume:	17.0 cm3/mol
+Structure:	P4 tetrahedral arrangement (white phosphorus)
+Hardness:	0.5 mohs
+Specific heat capacity	0.77 J g-1 K-1
+Heat of fusion	0.657 kJ mol-1
+Heat of atomization	315 kJ mol-1
+Heat of vaporization	12.129 kJ mol-1
+1st ionization energy	1011.7 kJ mol-1
+2nd ionization energy	1903.2 kJ mol-1
+3rd ionization energy	2911.9 kJ mol-1
+Electron affinity	72.07 kJ mol-1
+
+Classification:	Sulfur is a chalcogen and a nonmetal
+Color:	yellow
+Atomic weight:	32.06
+State:	solid
+Melting point:	115.2 oC, 388.4 K
+Boiling point:	444.7 oC, 717.9 K
+Electrons:	16
+Protons:	16
+Neutrons in most abundant isotope:	16
+Electron shells:	2,8,6
+Electron configuration:	1s2 2s2 2p6 3s2 3p4
+Density @ 20oC:	2.07 g/cm3
+Atomic volume:	15.5 cm3/mol
+Structure:	S8 rings
+Hardness:	2 mohs
+Specific heat capacity	0.71 J g-1 K-1
+Heat of fusion	1.7175 kJ mol-1
+Heat of atomization	279 kJ mol-1
+Heat of vaporization	9.8 kJ mol-1 of S2
+1st ionization energy	999.6 kJ mol-1
+2nd ionization energy	2251 kJ mol-1
+3rd ionization energy	3360.6 kJ mol-1
+Electron affinity	200.4144 kJ mol-1
+
+Classification:	Chlorine is a halogen and a nonmetal
+Color:	greenish-yellow
+Atomic weight:	35.453
+State:	gas
+Melting point:	-101 oC , 172 K
+Boiling point:	-34 oC , 239 K
+Electrons:	17
+Protons:	17
+Neutrons in most abundant isotope:	18
+Electron shells:	2,8,7
+Electron configuration:	1s2 2s2 2p6 3s2 3p5
+Density @ 20oC:	0.003214 g/cm3
+Atomic volume:	22.7 cm3/mol
+Structure:	layers of Cl2 in solid
+Hardness:	
+Specific heat capacity	0.48 J g-1 K-1
+Heat of fusion	6.406 kJ mol-1 of Cl2
+Heat of atomization	122 kJ mol-1
+Heat of vaporization	20.41 kJ mol-1 of Cl2
+1st ionization energy	1251.1 kJ mol-1
+2nd ionization energy	2297.3 kJ mol-1
+3rd ionization energy	3821.8 kJ mol-1
+Electron affinity	349 kJ mol-1
+
+Classification:	Argon is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	39.948
+State:	gas
+Melting point:	-189.3 oC, 83.85 K
+Boiling point:	-185.8 oC, 87.3 K
+Electrons:	18
+Protons:	18
+Neutrons in most abundant isotope:	22
+Electron shells:	2,8,8
+Electron configuration:	1s2 2s2 2p6 3s2 3p6
+Density @ 20oC:	0.001784 g/cm3
+Atomic volume:	22.4 cm3/mol
+Structure:	fcc: face-centered cubic when solid
+Specific heat capacity	0.520 J g-1 K-1
+Heat of fusion	1.188 kJ mol-1
+Heat of atomization	0 kJ mol-1
+Heat of vaporization	6.447 kJ mol-1
+1st ionization energy	1520.5 kJ mol-1
+2nd ionization energy	2665.8 kJ mol-1
+3rd ionization energy	3930.8 kJ mol-1
+Electron affinity	–
+
+Classification:	Potassium is an alkali metal
+Color:	silvery-white
+Atomic weight:	39.0983
+State:	solid
+Melting point:	63.4 oC, 336.5 K
+Boiling point:	765.6 oC, 1038.7 K
+Electrons:	19
+Protons:	19
+Neutrons in most abundant isotope:	20
+Electron shells:	2,8,8,1
+Electron configuration:	1s2 2s2 2p6 3s2 3p6 4s1
+Density @ 20oC:	0.862 g/cm3
+Atomic volume:	45.46 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	0.4 mohs
+Specific heat capacity	0.75 J g-1 K-1
+Heat of fusion	2.334 kJ mol-1
+Heat of atomization	89 kJ mol-1
+Heat of vaporization	79.870 kJ mol-1
+1st ionization energy	418.8 kJ mol-1
+2nd ionization energy	3051.3 kJ mol-1
+3rd ionization energy	4411.3 kJ mol-1
+Electron affinity	48.385 kJ mol-1
+
+Classification:	Calcium is an alkali earth metal
+Color:	silvery-gray
+Atomic weight:	40.078
+State:	solid
+Melting point:	842 oC, 1115 K
+Boiling point:	1484 oC , 1771 K
+Electrons:	20
+Protons:	20
+Neutrons in most abundant isotope:	20
+Electron shells:	2,8,8,2
+Electron configuration:	1s2 2s2 2p6 3s2 3p6 4s2
+Density @ 20oC:	1.55 g/cm3
+Atomic volume:	29.9 cm3/mol
+Structure:	ccp: cubic close packed
+Hardness:	1.75 mohs
+Specific heat capacity	0.63 J g-1 K-1
+Heat of fusion	8.54 kJ mol-1
+Heat of atomization	178 kJ mol-1
+Heat of vaporization	153.6 kJ mol-1
+1st ionization energy	589.8 kJ mol-1
+2nd ionization energy	1145.4 kJ mol-1
+3rd ionization energy	4911.8 kJ mol-1
+Electron affinity	2 kJ mol-1
+
+Classification:	Scandium is a transition metal and rare earth.
+Color:	silvery-white
+Atomic weight:	44.9559
+State:	solid
+Melting point:	1540 oC, 1813.2 K
+Boiling point:	2830 oC, 3103 K
+Electrons:	21
+Protons:	21
+Neutrons in most abundant isotope:	24
+Electron shells:	2,8,9,2
+Electron configuration:	[Ar] 3d1 4s2
+Density @ 20oC:	3.0 g/cm3
+Atomic volume:	15.0 cm3/mol
+Structure:	bcc: body-centered cubic
+Specific heat capacity	0.6 J g-1 K-1
+Heat of fusion	14.10 kJ mol-1
+Heat of atomization	378 kJ mol-1
+Heat of vaporization	314.20 kJ mol-1
+1st ionization energy	631 kJ mol-1
+2nd ionization energy	1235 kJ mol-1
+3rd ionization energy	2389 kJ mol-1
+Electron affinity	18.1 kJ mol-1
+
+Classification:	Titanium is a transition metal
+Color:	silvery-white
+Atomic weight:	47.87
+State:	solid
+Melting point:	1668 oC, 1941 K
+Boiling point:	3287 oC, 3560 K
+Electrons:	22
+Protons:	22
+Neutrons in most abundant isotope:	26
+Electron shells:	2,8,10,2
+Electron configuration:	[Ar] 3d2 4s2
+Density @ 20oC:	4.50 g/cm3
+Atomic volume:	10.64 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	6.0 mohs
+Specific heat capacity	0.52 J g-1 K-1
+Heat of fusion	14.15 kJ mol-1
+Heat of atomization	471 kJ mol-1
+Heat of vaporization	425 kJ mol-1
+1st ionization energy	658 kJ mol-1
+2nd ionization energy	1310.3 kJ mol-1
+3rd ionization energy	2652.5 kJ mol-1
+Electron affinity	7.6 kJ mol-1
+
+Classification:	Vanadium is a transition metal
+Color:	silvery
+Atomic weight:	50.9415
+State:	solid
+Melting point:	1920 oC, 2193 K
+Boiling point:	3400 oC, 3673 K
+Electrons:	23
+Protons:	23
+Neutrons in most abundant isotope:	28
+Electron shells:	2,8,11,2
+Electron configuration:	[Ar] 3d3 4s2
+Density @ 20oC:	6.1 g/cm3
+Atomic volume:	8.78 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	7.0 mohs
+Specific heat capacity	0.49 J g-1 K-1
+Heat of fusion	20.90 kJ mol-1
+Heat of atomization	514 kJ mol-1
+Heat of vaporization	459 kJ mol-1
+1st ionization energy	650.3 kJ mol-1
+2nd ionization energy	1413.5 kJ mol-1
+3rd ionization energy	2828 kJ mol-1
+Electron affinity	50.7 kJ mol-1
+
+Classification:	Chromium is a transition metal
+Color:	silver-gray
+Atomic weight:	51.996
+State:	solid
+Melting point:	1907 oC, 2180 K
+Boiling point:	2670 oC, 2943 K
+Electrons:	24
+Protons:	24
+Neutrons in most abundant isotope:	28
+Electron shells:	2,8,13,1
+Electron configuration:	[Ar] 3d5 4s1
+Density @ 20oC:	7.19 g/cm3
+Atomic volume:	7.23 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	8.5 mohs
+Specific heat capacity	0.45 J g-1 K-1
+Heat of fusion	21.0 kJ mol-1
+Heat of atomization	397 kJ mol-1
+Heat of vaporization	339.5 kJ mol-1
+1st ionization energy	652.8 kJ mol-1
+2nd ionization energy	1592 kJ mol-1
+3rd ionization energy	2987.2 kJ mol-1
+Electron affinity	64.3 kJ mol-1
+
+Classification:	Manganese is a transition metal
+Color:	gray-white
+Atomic weight:	54.9380
+State:	solid
+Melting point:	1250 oC, 1523 K
+Boiling point:	2060 oC, 2333 K
+Electrons:	25
+Protons:	25
+Neutrons in most abundant isotope:	30
+Electron shells:	2,8,13,2
+Electron configuration:	[Ar] 3d5 4s2
+Density @ 20oC:	7.43 g/cm3
+Atomic volume:	7.4 cm3/mol
+Structure:	complex (cubic)
+Hardness:	6.0 mohs
+Specific heat capacity	0.48 J g-1 K-1
+Heat of fusion	12.91 kJ mol-1
+Heat of atomization	283 kJ mol-1
+Heat of vaporization	219.74 kJ mol-1
+1st ionization energy	717.4 kJ mol-1
+2nd ionization energy	1509 kJ mol-1
+3rd ionization energy	3248.3 kJ mol-1
+Electron affinity	–
+
+Classification:	Iron is a transition metal
+Color:	silvery-gray
+Atomic weight:	55.847
+State:	solid
+Melting point:	1535.1 oC, 1808.2 K
+Boiling point:	2750 oC, 3023 K
+Electrons:	26
+Protons:	26
+Neutrons in most abundant isotope:	30
+Electron shells:	2,8,14,2
+Electron configuration:	[Ar] 3d6 4s2
+Density @ 20oC:	7.87 g/cm3
+Atomic volume:	7.1 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	4.0 mohs
+Specific heat capacity	0.44 J g-1 K-1
+Heat of fusion	13.80 kJ mol-1
+Heat of atomization	415 kJ mol-1
+Heat of vaporization	349.60 kJ mol-1
+1st ionization energy	759.3 kJ mol-1
+2nd ionization energy	1561.1 kJ mol-1
+3rd ionization energy	2957.3 kJ mol-1
+Electron affinity	15.7 kJ mol-1
+
+Classification:	Cobalt is a transition metal
+Color:	bluish-white
+Atomic weight:	58.9332
+State:	solid
+Melting point:	1495 oC, 1768 K
+Boiling point:	2930 oC, 3203 K
+Electrons:	27
+Protons:	27
+Neutrons in most abundant isotope:	32
+Electron shells:	2,8,15,2
+Electron configuration:	[Ar] 3d7 4s2
+Density @ 20oC:	8.90 g/cm3
+Atomic volume:	6.7 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	5.0 mohs
+Specific heat capacity	0.42 J g-1 K-1
+Heat of fusion	16.190 kJ mol-1
+Heat of atomization	426 kJ mol-1
+Heat of vaporization	373.3 kJ mol-1
+1st ionization energy	758.4 kJ mol-1
+2nd ionization energy	1646 kJ mol-1
+3rd ionization energy	3232.2 kJ mol-1
+Electron affinity	63.8 kJ mol-1
+
+Classification:	Nickel is a transition metal
+Color:	silvery-white
+Atomic weight:	58.693
+State:	solid
+Melting point:	1455 oC, 1728 K
+Boiling point:	2990 oC, 3263 K
+Electrons:	28
+Protons:	28
+Neutrons in most abundant isotope:	30
+Electron shells:	2,8,16,2
+Electron configuration:	[Ar] 3d8 4s2
+Density @ 20oC:	8.91 g/cm3
+Atomic volume:	6.59 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	4.0 mohs
+Specific heat capacity	0.44 J g-1 K-1
+Heat of fusion	17.48 kJ mol-1
+Heat of atomization	430 kJ mol-1
+Heat of vaporization	377.5 kJ mol-1
+1st ionization energy	736.7 kJ mol-1
+2nd ionization energy	1752.9 kJ mol-1
+3rd ionization energy	3393.4 kJ mol-1
+Electron affinity	111.5 kJ mol-1
+
+Classification:	Copper is a transition metal
+Color:	orange-red
+Atomic weight:	63.546
+State:	solid
+Melting point:	1084.62 oC, 1357.77 K
+Boiling point:	2560 oC, 2833 K
+Electrons:	29
+Protons:	29
+Neutrons in most abundant isotope:	34
+Electron shells:	2,8,18,1
+Electron configuration:	[Ar] 3d10 4s1
+Density @ 20oC:	8.96 g/cm3
+Atomic volume:	7.1 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	3.0 mohs
+Specific heat capacity	0.38 J g-1 K-1
+Heat of fusion	13.050 kJ mol-1
+Heat of atomization	338 kJ mol-1
+Heat of vaporization	300.30 kJ mol-1
+1st ionization energy	745.4 kJ mol-1
+2nd ionization energy	1957.9 kJ mol-1
+3rd ionization energy	3553.5 kJ mol-1
+Electron affinity	118.5 kJ mol-1
+
+Classification:	Zinc is a transition metal
+Color:	bluish silver
+Atomic weight:	65.41
+State:	solid
+Melting point:	419.53 oC, 692.68 K
+Boiling point:	910 oC, 1183 K
+Electrons:	30
+Protons:	30
+Neutrons in most abundant isotope:	34
+Electron shells:	2,8,18,2
+Electron configuration:	[Ar] 3d10 4s2
+Density @ 20oC:	7.14 g/cm3
+Atomic volume:	9.2 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	2.5 mohs
+Specific heat capacity	0.39 J g-1 K-1
+Heat of fusion	7.322 kJ mol-1
+Heat of atomization	131 kJ mol-1
+Heat of vaporization	115.30 kJ mol-1
+1st ionization energy	906.4 kJ mol-1>
+2nd ionization energy	1733.2 kJ mol-1
+3rd ionization energy	3832.6 kJ mol-1
+Electron affinity	–
+
+Classification:	Gallium is an ‘other metal’
+Color:	silvery-blue
+Atomic weight:	69.723
+State:	solid
+Melting point:	29.76 oC, 302.91 K
+Boiling point:	2200 oC, 2473 K
+Electrons:	31
+Protons:	31
+Neutrons in most abundant isotope:	40
+Electron shells:	2,8,18,3
+Electron configuration:	[Ar] 3d10 4s2 4p1
+Density @ 20oC:	5.907 g/cm3
+Atomic volume:	11.8 cm3/mol
+Structure:	orthorhombic
+Hardness:	1.5 mohs
+Specific heat capacity	0.37 J g-1 K-1
+Heat of fusion	5.590 kJ mol-1
+Heat of atomization	277 kJ mol-1
+Heat of vaporization	258.70 kJ mol-1
+1st ionization energy	578.8 kJ mol-1
+2nd ionization energy	1979.3 kJ mol-1
+3rd ionization energy	2963 kJ mol-1
+Electron affinity	41 kJ mol-1
+
+Classification:	Germanium is a metalloid
+Color:	gray-white
+Atomic weight:	72.64
+State:	solid
+Melting point:	938 oC, 1210.6 K
+Boiling point:	2830 oC, 3103 K
+Electrons:	32
+Protons:	32
+Neutrons in most abundant isotope:	42
+Electron shells:	2,8,18,4
+Electron configuration:	[Ar] 3d10 4s2 4p2
+Density @ 20oC:	5.323 g/cm3
+Atomic volume:	13.6 cm3/mol
+Structure:	diamond structure
+Hardness:	6 mohs
+Specific heat capacity	0.32 J g-1 K-1
+Heat of fusion	36.940 kJ mol-1
+Heat of atomization	377 kJ mol-1
+Heat of vaporization	334.3 kJ mol-1
+1st ionization energy	762.1 kJ mol-1
+2nd ionization energy	1537.4 kJ mol-1
+3rd ionization energy	3301.7 kJ mol-1
+Electron affinity	120 kJ mol-1
+
+Classification:	Arsenic is a metalloid
+Color:	gray
+Atomic weight:	74.9216
+State:	solid
+Melting point:	817 oC, 1090 K
+Note: At normal atmospheric pressure arsenic does not melt when heated, it sublimes. i.e. when heated, arsenic undergoes a phase change directly from solid to gas.
+The melting point quoted above is for gray arsenic under a pressure of 28 atmospheres.
+Boiling point:	603 oC, 876 K
+Electrons:	33
+Protons:	33
+Neutrons in most abundant isotope:	42
+Electron shells:	2,8,18,5
+Electron configuration:	[Ar] 3d10 4s2 4p3
+Density @ 20oC:	5.776 g/cm3
+Atomic volume:	12.97 cm3/mol
+Structure:	rhombohedral; layers of 6-member rings
+Hardness:	3.5 mohs
+Specific heat capacity	0.33 J g-1 K-1
+Heat of fusion	24.44 kJ mol-1
+Heat of atomization	303 kJ mol-1
+Heat of vaporization	32.4 kJ mol-1
+1st ionization energy	946.5 kJ mol-1
+2nd ionization energy	1797.8 kJ mol-1
+3rd ionization energy	2735.4 kJ mol-1
+Electron affinity	78 kJ mol-1
+
+Classification:	Selenium is a chalcogen and a nonmetal
+Color:	gray or red (crystalline), black or
+red (amorphous)
+Atomic weight:	78.96
+State:	solid
+Melting point:	220 oC, 493 K
+Boiling point:	685 oC, 958 K
+Electrons:	34
+Protons:	34
+Neutrons in most abundant isotope:	46
+Electron shells:	2,8,18,6
+Electron configuration:	[Ar] 3d10 4s2 4p4
+Density @ 20oC:	4.79 g/cm3
+Atomic volume:	16.45 cm3/mol
+Structure:	long, helical chains (crystalline hexagonal), Se8
+rings (crystalline monoclinic)
+Hardness:	2.0 mohs
+Specific heat capacity	0.32 J g-1 K-1
+Heat of fusion	6.694 kJ mol-1
+Heat of atomization	227 kJ mol-1
+Heat of vaporization	26.32 kJ mol-1
+1st ionization energy	940.9 kJ mol-1
+2nd ionization energy	2044.5 kJ mol-1
+3rd ionization energy	2973.7 kJ mol-1
+Electron affinity	194.97 kJ mol-1
+
+Classification:	Bromine is a halogen and a nonmetal
+Color:	red-brown
+Atomic weight:	79.904
+State:	liquid
+Melting point:	-7 oC , 277 K
+Boiling point:	58.9 oC, 332 K
+Electrons:	35
+Protons:	35
+Neutrons in most abundant isotope:	44
+Electron shells:	2,8,18,7
+Electron configuration:	[Ar] 3d10 4s2 4p5
+Density @ 20oC:	3.122 g/cm3
+Atomic volume:	23.5 cm3/mol
+Structure:	layers of Br2
+Hardness:	
+Specific heat capacity	0.473 J g-1 K-1
+Heat of fusion	10.57 kJ mol-1 of Br2
+Heat of atomization	112 kJ mol-1
+Heat of vaporization	29.96 kJ mol-1 of Br2
+1st ionization energy	1139.9 kJ mol-1
+2nd ionization energy	2103.4 kJ mol-1
+3rd ionization energy	3473.4 kJ mol-1
+Electron affinity	324.7 kJ mol-1
+
+Classification:	Krypton is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	83.80
+State:	gas
+Melting point:	-157.3 oC, 115.9 K
+Boiling point:	-153.2 oC, 119.4 K
+Electrons:	36
+Protons:	36
+Neutrons in most abundant isotope:	48
+Electron shells:	2,8,18,8
+Electron configuration:	[Ar] 3d10 4s2 4p6
+Density @ 20oC:	0.003708 g/cm3
+Atomic volume:	38.9 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	–
+Specific heat capacity	0.248 J g-1 K-1
+Heat of fusion	1.638 kJ mol-1
+Heat of atomization	0 kJ mol-1
+Heat of vaporization	9.029 kJ mol-1
+1st ionization energy	1350.7 kJ mol-1
+2nd ionization energy	2350.3 kJ mol-1
+3rd ionization energy	3565.1 kJ mol-1
+Electron affinity	– kJ mol-1
+
+Classification:	Rubidium is an alkali metal
+Color:	silvery-white
+Atomic weight:	85.468
+State:	solid
+Melting point:	39.3 oC, 312.45 K
+Boiling point:	690 oC, 963 K
+Electrons:	37
+Protons:	37
+Neutrons in most abundant isotope:	48
+Electron shells:	2,8,18,8,1
+Electron configuration:	[Kr] 5s1
+Density @ 20oC:	1.53 g/cm3
+Atomic volume:	55.9 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	0.3 mohs
+Specific heat capacity	0.363 J g-1 K-1
+Heat of fusion	2.192 kJ mol-1
+Heat of atomization	81 kJ mol-1
+Heat of vaporization	72.216 kJ mol-1
+1st ionization energy	403 kJ mol-1
+2nd ionization energy	2632.1 kJ mol-1
+3rd ionization energy	3859.4 kJ mol-1
+Electron affinity	46.885 kJ mol-1
+
+Classification:	Strontium is an alkali earth metal
+Color:	silvery
+Atomic weight:	87.62
+State:	solid
+Melting point:	777 oC, 1050 K
+Boiling point:	1380 oC, 1653 K
+Electrons:	38
+Protons:	38
+Neutrons in most abundant isotope:	50
+Electron shells:	2,8,18,8,2
+Electron configuration:	[Kr] 5s2
+Density @ 20oC:	2.6 g/cm3
+Atomic volume:	33.7 cm3/mol
+Structure:	ccp: cubic close-packed
+Hardness:	1.5 mohs
+Specific heat capacity	0.30 J g-1 K-1
+Heat of fusion	8.30 kJ mol-1
+Heat of atomization	164 kJ mol-1
+Heat of vaporization	144.0 kJ mol-1
+1st ionization energy	549.5 kJ mol-1
+2nd ionization energy	1064.2 kJ mol-1
+3rd ionization energy	4138 kJ mol-1
+Electron affinity	5 kJ mol-1
+
+Classification:	Yttrium is a transition metal & rare earth
+Color:	silvery-white
+Atomic weight:	88.9059
+State:	solid
+Melting point:	1525 oC, 1798 K
+Boiling point:	3340 oC, 3613 K
+Electrons:	39
+Protons:	39
+Neutrons in most abundant isotope:	50
+Electron shells:	2,8,18,9,2
+Electron configuration:	[Kr] 4d1 5s2
+Density @ 20oC:	4.47 g/cm3
+Atomic volume:	19.8 cm3/mol
+Structure:	hcp: hexagonal close packed
+Specific heat capacity	0.30 J g-1 K-1
+Heat of fusion	11.40 kJ mol-1
+Heat of atomization	423 kJ mol-1
+Heat of vaporization	363.0 kJ mol-1
+1st ionization energy	615.6 kJ mol-1
+2nd ionization energy	1181 kJ mol-1
+3rd ionization energy	1979.9 kJ mol-1
+Electron affinity	29.6 kJ mol-1
+
+Classification:	Zirconium is a transition metal
+Color:	grayish-white
+Atomic weight:	91.22
+State:	solid
+Melting point:	1850 oC, 2123 K
+Boiling point:	4400 oC, 4673 K
+Electrons:	40
+Protons:	40
+Neutrons in most abundant isotope:	50
+Electron shells:	2,8,18,10,2
+Electron configuration:	[Kr] 4d2 5s2
+Density @ 20oC:	6.52 g/cm3
+Atomic volume:	14.0 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	5.0 mohs
+Specific heat capacity	0.27 J g-1 K-1
+Heat of fusion	16.90 kJ mol-1
+Heat of atomization	609 kJ mol-1
+Heat of vaporization	590.5 kJ mol-1
+1st ionization energy	640.1 kJ mol-1
+2nd ionization energy	1266.8 kJ mol-1
+3rd ionization energy	2218.2 kJ mol-1
+Electron affinity	41.1 kJ mol-1
+
+Classification:	Niobium is a transition metal
+Color:	silvery-white
+Atomic weight:	92.9064
+State:	solid
+Melting point:	2477 oC, 2750 K
+Boiling point:	4744 oC, 5017 K
+Electrons:	41
+Protons:	41
+Neutrons in most abundant isotope:	52
+Electron shells:	2,8,18,12,1
+Electron configuration:	[Kr] 4d4 5s1
+Density @ 20oC:	8.57 g/cm3
+Atomic volume:	10.87 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	6.0 mohs
+Specific heat capacity	0.26 J g-1 K-1
+Heat of fusion	26.40 kJ mol-1
+Heat of atomization	733 kJ mol-1
+Heat of vaporization	682.0 kJ mol-1
+1st ionization energy	652.1 kJ mol-1
+2nd ionization energy	1381.7 kJ mol-1
+3rd ionization energy	2416 kJ mol-1
+Electron affinity	86.2 kJ mol-1
+
+Classification:	Molybdenum is a transition metal
+Color:	silvery-white
+Atomic weight:	95.94
+State:	solid
+Melting point:	2623 oC, 2896 K
+Boiling point:	4640 oC, 4913 K
+Electrons:	42
+Protons:	42
+Neutrons in most abundant isotope:	56
+Electron shells:	2,8,18,13,1
+Electron configuration:	[Kr] 4d5 5s1
+Density @ 20oC:	10.2 g/cm3
+Atomic volume:	9.4 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	5.5 mohs
+Specific heat capacity	0.25 J g-1 K-1
+Heat of fusion	32.0 kJ mol-1
+Heat of atomization	659 kJ mol-1
+Heat of vaporization	598 kJ mol-1
+1st ionization energy	684.9 kJ mol-1
+2nd ionization energy	1588.2 kJ mol-1
+3rd ionization energy	2620.5 kJ mol-1
+Electron affinity	72 kJ mol-1
+
+Classification:	Technetium is a transition metal
+Color:	silver-gray
+Atomic weight:	(98), no stable isotopes
+State:	solid
+Melting point:	2160 oC, 2433 K
+Boiling point:	4260 oC, 4533 K
+Electrons:	43
+Protons:	43
+Neutrons in most abundant isotope:	55
+Electron shells:	2,8,18,14,1
+Electron configuration:	[Kr] 4d6 5s1
+Density @ 20oC:	11.5 g/cm3
+Atomic volume:	8.5 cm3/mol
+Structure:	hcp: hexagonal close packed
+Specific heat capacity	0.21 J g-1 K-1
+Heat of fusion	24.0 kJ mol-1
+Heat of atomization	661 kJ mol-1
+Heat of vaporization	502 kJ mol-1
+1st ionization energy	702.4 kJ mol-1
+2nd ionization energy	1472.4 kJ mol-1
+3rd ionization energy	2850.2 kJ mol-1
+Electron affinity	53 kJ mol-1
+
+Classification:	Ruthenium is a transition metal
+Color:	silvery-white
+Atomic weight:	101.07
+State:	solid
+Melting point:	2330 oC, 2603 K
+Boiling point:	4150 oC, 4423 K
+Electrons:	44
+Protons:	44
+Neutrons in most abundant isotope:	58
+Electron shells:	2,8,18,15,1
+Electron configuration:	[Kr] 4d7 5s1
+Density @ 20oC:	12.2 g/cm3
+Atomic volume:	8.3 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	6.5 mohs
+Specific heat capacity	0.238 J g-1 K-1
+Heat of fusion	24.0 kJ mol-1
+Heat of atomization	652 kJ mol-1
+Heat of vaporization	595.0 kJ mol-1
+1st ionization energy	711.1 kJ mol-1
+2nd ionization energy	1617.1 kJ mol-1
+3rd ionization energy	2746.9 kJ mol-1
+Electron affinity	101 kJ mol-1
+
+Classification:	Rhodium is a transition metal
+Color:	silvery-white
+Atomic weight:	102.9055
+State:	solid
+Melting point:	1963 oC, 2236 K
+Boiling point:	3695 oC, 3968 K
+Electrons:	45
+Protons:	45
+Neutrons in most abundant isotope:	58
+Electron shells:	2,8,18,16,1
+Electron configuration:	[Kr] 4d8 5s1
+Density @ 20oC:	12.4 g/cm3
+Atomic volume:	8.3 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	6.0 mohs
+Specific heat capacity	0.242 J g-1 K-1
+Heat of fusion	21.50 kJ mol-1
+Heat of atomization	556 kJ mol-1
+Heat of vaporization	493.0 kJ mol-1
+1st ionization energy	719.8 kJ mol-1
+2nd ionization energy	1744.4 kJ mol-1
+3rd ionization energy	2996.8 kJ mol-1
+Electron affinity	109.7 kJ mol-1
+
+Classification:	Palladium is a transition metal
+Color:	silvery-white
+Atomic weight:	106.4
+State:	solid
+Melting point:	1555 oC, 1828 K
+Boiling point:	2960 oC, 3233 K
+Electrons:	46
+Protons:	46
+Neutrons in most abundant isotope:	60
+Electron shells:	2,8,18,18
+Electron configuration:	[Kr] 4d10
+Density @ 20oC:	12.02 g/cm3
+Atomic volume:	8.9 cm3/mol
+Structure:	ccp (cubic close-packed)
+Hardness:	4.8 mohs
+Specific heat capacity	0.24 J g-1 K-1
+Heat of fusion	17.60 kJ mol-1
+Heat of atomization	378 kJ mol-1
+Heat of vaporization	357.0 kJ mol-1
+1st ionization energy	804.7 kJ mol-1
+2nd ionization energy	1894 kJ mol-1
+3rd ionization energy	3177.2 kJ mol-1
+Electron affinity	53.7 kJ mol-1
+
+Classification:	Silver is a transition metal
+Color:	silver
+Atomic weight:	107.868
+State:	solid
+Melting point:	961.95 oC, 1235.1 K
+Boiling point:	2155 oC, 2428 K
+Electrons:	47
+Protons:	47
+Neutrons in most abundant isotope:	60
+Electron shells:	2,8,18,18,1
+Electron configuration:	[Kr] 4d10 5s1
+Density @ 20oC:	10.5 g/cm3
+Atomic volume:	10.3 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	2.5 mohs
+Specific heat capacity	0.235 J g-1 K-1
+Heat of fusion	11.30 kJ mol-1
+Heat of atomization	284 kJ mol-1
+Heat of vaporization	250.580 kJ mol-1
+1st ionization energy	731 kJ mol-1
+2nd ionization energy	2073.5 kJ mol-1
+3rd ionization energy	3360.6 kJ mol-1
+Electron affinity	125.6 kJ mol-1
+
+Classification:	Cadmium is a transition metal
+Color:	bluish-white
+Atomic weight:	112.41
+State:	solid
+Melting point:	321.1 oC, 594.3 K
+Boiling point:	765 oC, 1038 K
+Electrons:	48
+Protons:	48
+Neutrons in most abundant isotope:	66
+Electron shells:	2,8,18,18,2
+Electron configuration:	[Kr] 4d10 5s2
+Density @ 20oC:	8.65 g/cm3
+Atomic volume:	13.1 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	2.0 mohs
+Specific heat capacity	0.23 J g-1 K-1
+Heat of fusion	6.192 kJ mol-1
+Heat of atomization	112 kJ mol-1
+Heat of vaporization	99.87 kJ mol-1
+1st ionization energy	867.7 kJ mol-1
+2nd ionization energy	1631.4 kJ mol-1
+3rd ionization energy	3616.2 kJ mol-1
+Electron affinity	–
+
+Classification:	Indium is an ‘other metal’
+Color:	silvery-white
+Atomic weight:	114.82
+State:	solid
+Melting point:	156.6 oC, 429.8 K
+Boiling point:	2070 oC, 2343 K
+Electrons:	49
+Protons:	49
+Neutrons in most abundant isotope:	66
+Electron shells:	2,8,18,18,3
+Electron configuration:	[Kr] 4d10 5s2 5p1
+Density @ 20oC:	7.31 g/cm3
+Atomic volume:	15.7 cm3/mol
+Structure:	tetragonal, distorted fcc structure
+Hardness:	1.2 mohs
+Specific heat capacity	0.23 J g-1 K-1
+Heat of fusion	3.263 kJ mol-1
+Heat of atomization	244 kJ mol-1
+Heat of vaporization	231.50 kJ mol-1
+1st ionization energy	558.3 kJ mol-1
+2nd ionization energy	1820.6 kJ mol-1
+3rd ionization energy	2704.5 kJ mol-1
+Electron affinity	39 kJ mol-1
+
+Classification:	Tin can behave as an ‘other metal’ (white tin)
+or a nonmetal (gray tin).
+Color:	silvery-white
+Atomic weight:	118.69
+State:	solid
+Melting point:	231.928 oC, 505.078 K
+Boiling point:	2620 oC, 2893 K
+Electrons:	50
+Protons:	50
+Neutrons in most abundant isotope:	70
+Electron shells:	2,8,18,18,4
+Electron configuration:	[Kr] 4d10 5s2 5p2
+Density @ 20oC:	7.30 g/cm3
+Atomic volume:	16.3 cm3/mol
+Structure:	distorted diamond
+Hardness:	1.5 mohs
+Specific heat capacity	0.227 J g-1 K-1
+Heat of fusion	7.029 kJ mol-1
+Heat of atomization	302 kJ mol-1
+Heat of vaporization	295.80 kJ mol-1
+1st ionization energy	708.6 kJ mol-1
+2nd ionization energy	1411.8 kJ mol-1
+3rd ionization energy	2943 kJ mol-1
+Electron affinity	107 kJ mol-1
+
+Classification:	Antimony is a metalloid
+Color:	silvery white
+Atomic weight:	121.760
+State:	solid
+Melting point:	630.79 oC, 903.94 K
+Boiling point:	1587 oC, 1860 K
+Electrons:	51
+Protons:	51
+Neutrons in most abundant isotope:	70
+Electron shells:	2,8,18,18,5
+Electron configuration:	[Kr] 4d10 5s2 5p3
+Density @ 20oC:	6.684 g/cm3
+Atomic volume:	18.22 cm3/mol
+Structure:	rhombohedral
+Hardness:	3.15 mohs
+Specific heat capacity	0.21 J/gK
+Heat of fusion	19.870 kJ mol-1
+Heat of atomization	262 kJ mol-1
+Heat of vaporization	67.97 kJ mol-1
+1st ionization energy	833.7 kJ mol-1
+2nd ionization energy	1594.9 kJ mol-1
+3rd ionization energy	2441.1 kJ mol-1
+Electron affinity	103 kJ mol-1
+
+Classification:	Tellurium is a chalcogen and a metalloid
+Color:	silvery
+Atomic weight:	127.60
+State:	solid
+Melting point:	450 oC, 723 K
+Boiling point:	990 oC, 1263 K
+Electrons:	52
+Protons:	52
+Neutrons in most abundant isotope:	78
+Electron shells:	2,8,18,18,6
+Electron configuration:	[Kr] 4d10 5s2 5p4
+Density @ 20oC:	6.24 g/cm3
+Atomic volume:	20.5 cm3/mol
+Structure:	parallel chains
+Hardness:	2.3 mohs
+Specific heat capacity	0.20 J g-1 K-1
+Heat of fusion	17.490 kJ mol-1
+Heat of atomization	197 kJ mol-1
+Heat of vaporization	52.550 kJ mol-1
+1st ionization energy	869.2 kJ mol-1
+2nd ionization energy	1794.6 kJ mol-1
+3rd ionization energy	2697.7 kJ mol-1
+Electron affinity	190.16 kJ mol-1
+
+Classification:	Iodine is a halogen and a nonmetal
+Color:	bluish-black solid, purple vapor
+Atomic weight:	126.9045
+State:	solid
+Melting point:	113.5 oC, 386.6 K
+Boiling point:	184 oC, 457 K
+Electrons:	53
+Protons:	53
+Neutrons in most abundant isotope:	74
+Electron shells:	2,8,18,18,7
+Electron configuration:	[Kr] 4d10 5s2 5p5
+Density @ 20oC:	4.93 g/cm3
+Atomic volume:	25.74 cm3/mol
+Structure:	layers of I2
+Specific heat capacity	0.214 J g-1 K-1
+Heat of fusion	15.52 kJ mol-1 of I2
+Heat of atomization	107 kJ mol-1
+Heat of vaporization	41.57 kJ mol-1 of I2
+1st ionization energy	1008.4 kJ mol-1
+2nd ionization energy	1845.8 kJ mol-1
+3rd ionization energy	3184 kJ mol-1
+Electron affinity	295.16 kJ mol-1
+
+Classification:	Xenon is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	131.29
+State:	gas
+Melting point:	-118.8 oC, 161.3 K
+Boiling point:	-108.1 oC, 165 K
+Electrons:	54
+Protons:	54
+Neutrons in most abundant isotope:	78
+Electron shells:	2,8,18,18,8
+Electron configuration:	[Kr] 4d10 5s2 5p6
+Density @ 20oC:	0.00588 g/cm3
+Atomic volume:	37.3 cm3/mol
+Structure:	fcc: face-centered cubic
+Specific heat capacity	0.158 J g-1 K-1
+Heat of fusion	2.297 kJ mol-1
+Heat of atomization	0 kJ mol-1
+Heat of vaporization	12.636 kJ mol-1
+1st ionization energy	1170.4 kJ mol-1
+2nd ionization energy	2046.4 kJ mol-1
+3rd ionization energy	3097.2 kJ mol-1
+Electron affinity	–
+
+Classification:	Cesium is an alkali metal
+Color:	yellow/silvery
+Atomic weight:	132.9055
+State:	solid
+Melting point:	28.4 oC , 301.6 K
+Boiling point:	670 oC, 943.2 K
+Electrons:	55
+Protons:	55
+Neutrons in most abundant isotope:	78
+Electron shells:	2,8,18,18,8,1
+Electron configuration:	[Xe] 6s1
+Density @ 20oC:	1.873 g/cm3
+Atomic volume:	71.07 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	0.2 mohs
+Specific heat capacity	0.24 J g-1 K-1
+Heat of fusion	2.092 kJ mol-1
+Heat of atomization	76 kJ mol-1
+Heat of vaporization	67.740 kJ mol-1
+1st ionization energy	375.7 kJ mol-1
+2nd ionization energy	2234.3 kJ mol-1
+3rd ionization energy	3400 kJ mol-1
+Electron affinity	45.506 kJ mol-1
+
+Classification:	Barium is an alkali earth metal
+Color:	silvery white
+Atomic weight:	137.33
+State:	solid
+Melting point:	725 oC, 998.2 K
+Boiling point:	1897 oC, 2170 K
+Electrons:	56
+Protons:	56
+Neutrons in most abundant isotope:	82
+Electron shells:	2,8,18,18,8,2
+Electron configuration:	[Xe] 6s2
+Density @ 20oC:	3.59 g/cm3
+Atomic volume:	39.24 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	1.25 mohs
+Specific heat capacity	0.204 J g-1 K-1
+Heat of fusion	7.12 kJ mol-1
+Heat of atomization	182 kJ mol-1
+Heat of vaporization	140.3 kJ mol-1
+1st ionization energy	502.9 kJ mol-1
+2nd ionization energy	965.2 kJ mol-1
+3rd ionization energy	3600 kJ mol-1
+Electron affinity	14 kJ mol-1
+
+Classification:	Lanthanum is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	138.9055
+State:	solid
+Melting point:	1540 oC, 1813.2 K
+Boiling point:	2830 oC, 3103 K
+Electrons:	57
+Protons:	57
+Neutrons in most abundant isotope:	82
+Electron shells:	2,8,18,18,9,2
+Electron configuration:	[Xe] 5d1 6s2
+Density @ 20oC:	6.16 g/cm3
+Atomic volume:	22.5 cm3/mol
+Structure:	hcp: hexagonal close packed
+Hardness:	2.5 mohs
+Specific heat capacity	0.19 J g-1 K-1
+Heat of fusion	6.20 kJ mol-1
+Heat of atomization	414 kJ mol-1
+Heat of vaporization	400 kJ mol-1
+1st ionization energy	538.1 kJ mol-1
+2nd ionization energy	1067 kJ mol-1
+3rd ionization energy	1850 kJ mol-1
+Electron affinity	50 kJ mol-1
+
+Classification:	Cerium is a lanthanide and rare earth metal
+Color:	gray
+Atomic weight:	140.12
+State:	solid
+Melting point:	798 oC, 1071 K
+Boiling point:	3443 oC, 3716 K
+Electrons:	58
+Protons:	58
+Neutrons in most abundant isotope:	82
+Electron shells:	2,8,18,20,8,2
+Electron configuration:	[Xe] 4f2 6s2
+Density @ 20oC:	6.78 g/cm3
+Atomic volume:	20.67 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	2.5 mohs
+Specific heat capacity	0.19 J g-1 K-1
+Heat of fusion	5.460 kJ mol-1
+Heat of atomization	419 kJ mol-1
+Heat of vaporization	313.8 kJ mol-1
+1st ionization energy	534.4 kJ mol-1
+2nd ionization energy	1050 kJ mol-1
+3rd ionization energy	1949 kJ mol-1
+Electron affinity	50 kJ mol-1
+
+Classification:	Praseodymium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	140.9077
+State:	solid
+Melting point:	931 oC, 1204 K
+Boiling point:	3510 oC, 3783 K
+Electrons:	59
+Protons:	59
+Neutrons in most abundant isotope:	82
+Electron shells:	2,8,18,21,8,2
+Electron configuration:	[Xe] 4f3 6s2
+Density @ 20oC:	6.77 g/cm3
+Atomic volume:	20.8 cm3/mol
+Structure:	close packed (ABCB)
+Hardness:	–
+Specific heat capacity	0.19 J g-1 K-1
+Heat of fusion	6.890 kJ mol-1
+Heat of atomization	356 kJ mol-1
+Heat of vaporization	332.63 kJ mol-1
+1st ionization energy	523.2 kJ mol-1
+2nd ionization energy	1018 kJ mol-1
+3rd ionization energy	2086 kJ mol-1
+Electron affinity	50 kJ mol-1
+
+Classification:	Neodymium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	144.24
+State:	solid
+Melting point:	1016 oC, 1289 K
+Boiling point:	3070 oC, 3343 K
+Electrons:	60
+Protons:	60
+Neutrons in most abundant isotope:	82
+Electron shells:	2,8,18,22,8,2
+Electron configuration:	[Xe] 4f4 6s2
+Density @ 20oC:	7.0 g/cm3
+Atomic volume:	20.6 cm3/mol
+Structure:	close packed (ABCB)
+Hardness:	–
+Specific heat capacity	0.19 J g-1 K-1
+Heat of fusion	7.140 kJ mol-1
+Heat of atomization	328 kJ mol-1
+Heat of vaporization	283.68 kJ mol-1
+1st ionization energy	529.6 kJ mol-1
+2nd ionization energy	1035 kJ mol-1
+3rd ionization energy	2130 kJ mol-1
+Electron affinity	50 kJ mol-1
+
+Classification:	Promethium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	(145), no stable isotopes
+State:	solid
+Melting point:	1142oC, 1415 K
+Boiling point:	3300oC, 3573 K
+Electrons:	61
+Protons:	61
+Neutrons in most abundant isotope:	84
+Electron shells:	2,8,18,23,8,2
+Electron configuration:	[Xe] 4f5 6s2
+Density @ 20oC:	7.220 g/cm3
+Atomic volume:	22.39 cm3/mol
+Structure:	cp: close packed (ABCB)
+Hardness:	–
+Specific heat capacity	0.18 J g-1 K-1
+Heat of fusion	7.13 kJ mol-1
+Heat of atomization	356 kJ mol-1
+Heat of vaporization	332.63 kJ mol-1
+1st ionization energy	535.9 kJ mol-1
+2nd ionization energy	1052 kJ mol-1
+3rd ionization energy	2150 kJ mol-1
+Electron affinity	–
+
+Classification:	Samarium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	150.4
+State:	solid
+Melting point:	1170 oC, 1443 K
+Boiling point:	1790 oC, 2063 K
+Electrons:	62
+Protons:	62
+Neutrons in most abundant isotope:	90
+Electron shells:	2,8,18,24,8,2
+Electron configuration:	[Xe] 4f6 6s2
+Density @ 20oC:	7.54 g/cm3
+Atomic volume:	20.0 cm3/mol
+Structure:	close packed (ABCBCACAB)
+Specific heat capacity	0.20 J g-1 K-1
+Heat of fusion	8.62 kJ mol-1
+Heat of atomization	207 kJ mol-1
+Heat of vaporization	191.63 kJ mol-1
+1st ionization energy	543.3 kJ mol-1
+2nd ionization energy	1068 kJ mol-1
+3rd ionization energy	2260 kJ mol-1
+Electron affinity	–
+
+Classification:	Europium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	151.96
+State:	solid
+Melting point:	822 oC, 1095 K
+Boiling point:	1600 oC, 1873 K
+Electrons:	63
+Protons:	63
+Neutrons in most abundant isotope:	90
+Electron shells:	2,8,18,25,8,2
+Electron configuration:	[Xe] 4f7 6s2
+Density @ 20oC:	5.248 g/cm3
+Atomic volume:	20.8 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	
+Specific heat capacity	0.18 J g-1 K-1
+Heat of fusion	9.210 kJ mol-1
+Heat of atomization	178 kJ mol-1
+Heat of vaporization	175.73 kJ mol-1
+1st ionization energy	546.7 kJ mol-1
+2nd ionization energy	1085 kJ mol-1
+3rd ionization energy	2405 kJ mol-1
+Electron affinity	–
+
+Classification:	Gadolinium is a rare earth metal
+Color:	silvery-white
+Atomic weight:	157.25 g/mol
+State:	solid
+Melting point:	1314 oC, 1587 K
+Boiling point:	3260 oC, 3533 K
+Electrons:	64
+Protons:	64
+Neutrons in most abundant isotope:	94
+Electron shells:	2,8,18,25,9,2
+Electron configuration:	[Xe] 4f7 5d1 6s2
+Density @ 20 oC:	7.895 g/cm3
+Atomic volume:	19.9 cm3/mol
+Specific heat capacity	0.23 J g-1 K-1
+Heat of fusion	10.050 kJ mol-1
+Heat of atomization	389 kJ mol-1
+Heat of vaporization	311.71 kJ mol-1
+1st ionization energy	593.40 kJ mol-1
+2nd ionization energy	1170 kJ mol-1
+3rd ionization energy	1991 kJ mol-1
+Electron affinity	–
+
+Classification:	Terbium is a lanthanide and rare earth metal
+Color:	silvery-gray
+Atomic weight:	158.9254
+State:	solid
+Melting point:	1360 oC, 1633 K
+Boiling point:	3220 oC, 3493 K
+Electrons:	65
+Protons:	65
+Neutrons in most abundant isotope:	94
+Electron shells:	2,8,18,27,8,2
+Electron configuration:	[Xe] 4f9 6s2
+Density @ 20oC:	8.27 g/cm3
+Atomic volume:	19.20 cm3/mol
+Structure:	hexagonal close packed
+Specific heat capacity	0.18 J g-1 K-1
+Heat of fusion	10.15 kJ mol-1
+Heat of atomization	389 kJ mol-1
+Heat of vaporization	330.90 kJ mol-1
+1st ionization energy	565.80 kJ mol-1
+2nd ionization energy	1110 kJ mol-1
+3rd ionization energy	2114 kJ mol-1
+Electron affinity	–
+
+Classification:	Dysprosium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	162.50
+State:	solid
+Melting point:	1410 oC, 1683 K
+Boiling point:	2560 oC , 2833 K
+Electrons:	66
+Protons:	66
+Neutrons in most abundant isotope:	98
+Electron shells:	2,8,18,28,8,2
+Electron configuration:	[Xe] 4f10 6s2
+Density @ 20oC:	8.536 g/cm3
+Atomic volume:	19.0 cm3/mol
+Structure:	hexagonal close packed
+Hardness:	–
+Specific heat capacity	0.17 J g-1 K-1
+Heat of fusion	11.060 kJ mol-1
+Heat of atomization	291 kJ mol-1
+Heat of vaporization	230.0 kJ mol-1
+1st ionization energy	571.9 kJ mol-1
+2nd ionization energy	1126 kJ mol-1
+3rd ionization energy	2200 kJ mol-1
+Electron affinity	–
+
+Classification:	Holmium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	164.9303
+State:	solid
+Melting point:	1470 oC, 1743 K
+Boiling point:	2700 oC, 2973 K
+Electrons:	67
+Protons:	67
+Neutrons in most abundant isotope:	98
+Electron shells:	2,8,18,29,8,2
+Electron configuration:	[Xe] 4f11 6s2
+Density @ 20oC:	8.80 g/cm3
+Atomic volume:	18.7 cm3/mol
+Structure:	hexagonal close packed
+Hardness:	–
+Specific heat capacity	0.16 J g-1 K-1
+Heat of fusion	17.0 kJ mol-1
+Heat of atomization	301 kJ mol-1
+Heat of vaporization	251.04 kJ mol-1
+1st ionization energy	580.7 kJ mol-1
+2nd ionization energy	1139 kJ mol-1
+3rd ionization energy	2204 kJ mol-1
+Electron affinity	–
+
+Classification:	Erbium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	167.26
+State:	solid
+Melting point:	1530 oC, 1803 K
+Boiling point:	2860 oC, 3133 K
+Electrons:	68
+Protons:	68
+Neutrons in most abundant isotope:	98
+Electron shells:	2,8,18,30,8,2
+Electron configuration:	[Xe] 4f12 6s2
+Density @ 20oC:	9.05 g/cm3
+Atomic volume:	18.4 cm3/mol
+Structure:	hexagonal close packed
+Hardness:	
+Specific heat capacity	0.17 J g-1 K-1
+Heat of fusion	19.90 kJ mol-1
+Heat of atomization	317 kJ mol-1
+Heat of vaporization	292.88 kJ mol-1
+1st ionization energy	588.7 kJ mol-1
+2nd ionization energy	1151 kJ mol-1
+3rd ionization energy	2194 kJ mol-1
+Electron affinity	–
+
+Classification:	Thulium is a lanthanide and rare earth metal
+Color:	silvery-gray
+Atomic weight:	168.9342
+State:	solid
+Melting point:	1550 oC, 1823 K
+Boiling point:	1950 oC, 2223 K
+Electrons:	69
+Protons:	69
+Neutrons in most abundant isotope:	100
+Electron shells:	2,8,18,31,8,2
+Electron configuration:	[Xe] 4f13 6s2
+Density @ 20oC:	9.33 g/cm3
+Atomic volume:	18.1 cm3/mol
+Structure:	hexagonal close packed
+Specific heat capacity	0.16 J g-1 K-1
+Heat of fusion	16.840 kJ mol-1
+Heat of atomization	232 kJ mol-1
+Heat of vaporization	191.0 kJ mol-1
+1st ionization energy	596.7 kJ mol-1
+2nd ionization energy	1163 kJ mol-1
+3rd ionization energy	2285 kJ mol-1
+Electron affinity	99 kJ mol-1
+
+Classification:	Ytterbium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	173.04
+State:	solid
+Melting point:	824 oC, 1097 K
+Boiling point:	1200 oC, 1473 K
+Electrons:	70
+Protons:	70
+Neutrons in most abundant isotope:	104
+Electron shells:	2,8,18,32,8,2
+Electron configuration:	[Xe] 4f14 6s2
+Density @ 20oC:	6.97 g/cm3
+Atomic volume:	24.79 cm3/mol
+Structure:	face-centered cubic
+Specific heat capacity	0.15 J g-1 K-1
+Heat of fusion	7.66 kJ mol-1
+Heat of atomization	152 kJ mol-1
+Heat of vaporization	128.90 kJ mol-1
+1st ionization energy	603.4 kJ mol-1
+2nd ionization energy	1176 kJ mol-1
+3rd ionization energy	2415 kJ mol-1
+Electron affinity	–
+
+Classification:	Lutetium is a lanthanide and rare earth metal
+Color:	silvery-white
+Atomic weight:	174.97
+State:	solid
+Melting point:	1660 oC, 1933 K
+Boiling point:	3390 oC, 3663 K
+Electrons:	71
+Protons:	71
+Neutrons in most abundant isotope:	104
+Electron shells:	2,8,18,32,9,2
+configuration:	[Xe] 4f14 6s2
+Density @ 20oC:	9.8 g/cm3
+Atomic volume:	17.78 cm3/mol
+Structure:	hexagonal close packed
+Atomic volume:	17.78 cm3/mol
+Structure:	hexagonal close packed
+Hardness:	
+Specific heat capacity	0.15 J g-1 K-1
+Heat of fusion	22 kJ mol-1
+Heat of atomization	152 kJ mol-1
+Heat of vaporization	355.90 kJ mol-1
+1st ionization energy	523.50 kJ mol-1
+2nd ionization energy	1340 kJ mol-1
+3rd ionization energy	2022 kJ mol-1
+Electron affinity	33 kJ mol-1
+
+Classification:	Hafnium is a transition metal
+Color:	silvery
+Atomic weight:	178.49
+State:	solid
+Melting point:	2230 oC, 2503 K
+Boiling point:	4600 oC, 4873 K
+Electrons:	72
+Protons:	72
+Neutrons in most abundant isotope:	108
+Electron shells:	2,8,18,32,10,2
+Electron configuration:	[Xe] 4f14 5d2 6s2
+Density @ 20oC:	13.2 g/cm3
+Atomic volume:	13.6 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	5.5 mohs
+Specific heat capacity	0.14 J g-1 K-1
+Heat of fusion	27.2 kJ mol-1
+Heat of atomization	621 kJ mol-1
+Heat of vaporization	575.0 kJ mol-1
+1st ionization energy	658.5 kJ mol-1
+2nd ionization energy	1440 kJ mol-1
+3rd ionization energy	2250 kJ mol-1
+Electron affinity	178 kJ mol-1
+
+Classification:	Tantalum is a transition metal
+Color:	gray
+Atomic weight:	180.947
+State:	solid
+Melting point:	3020 oC, 3293 K
+Boiling point:	5560 oC, 5833 K
+Electrons:	73
+Protons:	73
+Neutrons in most abundant isotope:	108
+Shells:	2,8,18,32,11,2
+Electron configuration:	[Xe] 4f14 5d3 6s2
+Density @ 20oC:	16.6 g/cm3
+Atomic volume:	10.90 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	6.5 mohs
+Specific heat capacity	0.14 J g-1 K-1
+Heat of fusion	36.57 kJ mol-1
+Heat of atomization	782 kJ mol-1
+Heat of vaporization	737 kJ mol-1
+1st ionization energy	761 kJ mol-1
+2nd ionization energy	1500 kJ mol-1
+3rd ionization energy	–
+Electron affinity	31.1 kJ mol-1
+
+Classification:	Tungsten is a transition metal
+Color:	silvery-white
+Atomic weight:	183.84
+State:	solid
+Melting point:	3422 oC, 3695 K
+Boiling point:	5550 oC, 5823 K
+Electrons:	74
+Protons:	74
+Neutrons in most abundant isotope:	110
+Electron shells:	2,8,18,32,12,2
+Electron configuration:	[Xe] 4f14 5d4 6s2
+Density @ 20oC:	19.3 g/cm3
+Atomic volume:	9.53 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	7.5 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	35.40 kJ mol-1
+Heat of atomization	860 kJ mol-1
+Heat of vaporization	824.0 kJ mol-1
+1st ionization energy	770 kJ mol-1
+2nd ionization energy	1700 kJ mol-1
+3rd ionization energy	–
+Electron affinity	78.6 kJ mol-1
+
+Classification:	Rhenium is a transition metal
+Color:	silvery-white
+Atomic weight:	186.207
+State:	solid
+Melting point:	3186 oC, 3459 K
+Boiling point:	5596 oC, 5869 K
+Electrons:	75
+Protons:	75
+Neutrons in most abundant isotope:	112
+Electron shells:	2,8,18,32,13,2
+Electron configuration:	[Xe] 4f14 5d5 6s2
+Density @ 20oC:	21.0 g/cm3
+Atomic volume:	8.85 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	7.0 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	33.20 kJ mol-1
+Heat of atomization	776 kJ mol-1
+Heat of vaporization	715.0 kJ mol-1
+1st ionization energy	760 kJ mol-1
+2nd ionization energy	1260 kJ mol-1
+3rd ionization energy	2510kJ mol-1
+Electron affinity	14 kJ mol-1
+
+Classification:	Osmium is a transition metal
+Color:	bluish-white
+Atomic weight:	190.2
+State:	solid
+Melting point:	3030 oC, 3303 K
+Boiling point:	5012 oC, 5285 K
+Electrons:	76
+Protons:	76
+Neutrons in most abundant isotope:	116
+Electron shells:	2,8,18,32,14,2
+Electron configuration:	[Xe] 4f14 5d6 6s2
+Density @ 20oC:	22.61 g/cm3
+Atomic volume:	8.49 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	7.0 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	31.80 kJ mol-1
+Heat of atomization	789 kJ mol-1
+Heat of vaporization	627.6 kJ mol-1
+1st ionization energy	840 kJ mol-1
+2nd ionization energy	1600 kJ mol-1
+3rd ionization energy	kJ mol-1
+Electron affinity	104 kJ mol-1
+
+Classification:	Iridium is a transition metal
+Color:	silvery-white
+Atomic weight:	192.22
+State:	solid
+Melting point:	2447 oC, 2720 K
+Boiling point:	4430 oC, 4703 K
+Electrons:	77
+Protons:	77
+Neutrons in most abundant isotope:	116
+Electron shells:	2,8,18,32,15,2
+Electron configuration:	[Xe] 4f14 5d7 6s2
+Density @ 20oC:	22.56 g/cm3
+Atomic volume:	8.54 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	6.5 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	26.10 kJ mol-1
+Heat of atomization	671 kJ mol-1
+Heat of vaporization	563 kJ mol-1
+1st ionization energy	880 kJ mol-1
+2nd ionization energy	1600 kJ mol-1
+3rd ionization energy	–
+Electron affinity	151 kJ mol-1
+
+Classification:	Platinum is a transition metal
+Color:	silvery-white
+Atomic weight:	195.08
+State:	solid
+Melting point:	1768 oC, 2041 K
+Boiling point:	3820 oC, 4093 K
+Electrons:	78
+Protons:	78
+Neutrons in most abundant isotope:	117
+Electron shells:	2, 8, 18, 32, 17, 1
+Electron configuration:	[Xe] 4f14 5d9 6s1
+Density @ 20oC:	21.45 g/cm3
+Atomic volume:	9.10 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	3.5 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	22.17 kJ mol-1
+Heat of atomization	564 kJ mol-1
+Heat of vaporization	510.45 kJ mol-1
+1st ionization energy	870 kJ mol-1
+2nd ionization energy	1791 kJ mol-1
+3rd ionization energy	–
+Electron affinity	205.3 kJ mol-1
+
+Classification:	Gold is a transition metal
+Color:	golden yellow
+Atomic weight:	196.9665
+State:	solid
+Melting point:	1064.18 oC, 1337.33 K
+Boiling point:	2850 oC, 3123 K
+Electrons:	79
+Protons:	79
+Neutrons in most abundant isotope:	118
+Electron shells:	2,8,18,32,18,1
+Electron configuration:	[Xe] 4f14 5d10 6s1
+Density @ 20oC:	19.32 g/cm3
+Atomic volume:	10.2 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	2.5 mohs
+Specific heat capacity	0.128 J g-1 K-1
+Heat of fusion	12.550 kJ mol-1
+Heat of atomization	368 kJ mol-1
+Heat of vaporization	334.40 kJ mol-1
+1st ionization energy	890.1 kJ mol-1
+2nd ionization energy	1980 kJ mol-1
+3rd ionization energy	–
+Electron affinity	222.752 kJ mol-1
+
+Classification:	Mercury is a transition metal
+Color:	silvery-white
+Atomic weight:	200.59
+State:	liquid
+Melting point:	-38.83 oC, 234.32 K
+Boiling point:	356.73 oC, 629.88 K
+Electrons:	80
+Protons:	80
+Neutrons in most abundant isotope:	122
+Electron shells:	2,8,18,32,18,2
+Electron configuration:	[Xe] 4f14 5d10 6s2
+Density @ 20oC:	13.546 g/cm3
+Atomic volume:	14.82 cm3/mol
+Structure:	solid is rhombohedral
+Hardness:	–
+Specific heat capacity	0.139 J g-1 K-1
+Heat of fusion	2.295 kJ mol-1
+Heat of atomization	64 kJ mol-1
+Heat of vaporization	59.229 kJ mol-1
+1st ionization energy	1007 kJ mol-1
+2nd ionization energy	1810 kJ mol-1
+3rd ionization energy	3300 kJ mol-1
+Electron affinity	–
+
+Classification:	Thallium is an ‘other metal’
+Color:	silvery-gray
+Atomic weight:	204.383
+State:	solid
+Melting point:	304 oC, 577 K
+Boiling point:	1473 oC, 1746 K
+Electrons:	81
+Protons:	81
+Neutrons in most abundant isotope:	124
+Electron shells:	2,8,18,32,18,3
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p1
+Density @ 20oC:	11.85 g/cm3
+Atomic volume:	17.2 cm3/mol
+Structure:	hcp: hexagonal close pkd
+Hardness:	1.2 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	4.142 kJ mol-1
+Heat of atomization	182 kJ mol-1
+Heat of vaporization	164.10 kJ mol-1
+1st ionization energy	589.4 kJ mol-1
+2nd ionization energy	1971 kJ mol-1
+3rd ionization energy	2878 kJ mol-1
+Electron affinity	36 kJ mol-1
+
+Classification:	Lead is an ‘other metal’
+Color:	bluish gray
+Atomic weight:	207.2
+State:	solid
+Melting point:	327.46 oC, 600.61 K
+Boiling point:	1750 oC, 2023 K
+Electrons:	82
+Protons:	82
+Neutrons in most abundant isotope:	126
+Electron shells:	2,8,18,32,18,4
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p2
+Density @ 20oC:	11.34 g/cm3
+Atomic volume:	18.17 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	1.5 mohs
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	4.77 kJ mol-1
+Heat of atomization	196 kJ mol-1
+Heat of vaporization	177.9 kJ mol-1
+1st ionization energy	715.6 kJ mol-1
+2nd ionization energy	1450.5 kJ mol-1
+3rd ionization energy	3081.5 kJ mol-1
+Electron affinity	35.1 kJ mol-1
+
+Classification:	Bismuth is an ‘other metal’
+Color:	silver-white
+Atomic weight:	208.9804
+State:	solid
+Melting point:	271.4 oC, 544.5 K
+Boiling point:	1564 oC, 1837 K
+Electrons:	83
+Protons:	83
+Neutrons in most abundant isotope:	126
+Electron shells:	2,8,18,32,18,5
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p3
+Density @ 20oC:	9.807 g/cm3
+Atomic volume:	21.3 cm3/mol
+Structure:	rhombohedral
+Hardness:	2.25 mohs
+Specific heat capacity	0.123 J g-1 K-1
+Heat of fusion	11.3 kJ mol-1
+Heat of atomization	207 kJ mol-1
+Heat of vaporization	151 kJ mol-1
+1st ionization energy	703 kJ mol-1
+2nd ionization energy	1610 kJ mol-1
+3rd ionization energy	2466 kJ mol-1
+Electron affinity	91 kJ mol-1
+
+Classification:	Polonium is a chalcogen and a metalloid
+Color:	silvery-gray
+Atomic weight:	(209), no stable isotopes
+State:	solid
+Melting point:	254 oC, 527 K
+Boiling point:	960 oC, 1233 K
+Electrons:	84
+Protons:	84
+Neutrons in most abundant isotope:	125
+Electron shells:	2,8,18,32,18,6
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p4
+Density @ 20oC:	9.4 g/cm3
+Atomic volume:	22.23 cm3/mol
+Structure:	simple cubic
+Hardness:	–
+Specific heat capacity	0.12 J g-1 K-1 0.12
+Heat of fusion	13 kJ mol-1
+Heat of atomization	142 kJ mol-1
+Heat of vaporization	120 kJ mol-1
+1st ionization energy	812 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	180 kJ mol-1
+
+Classification:	Astatine is a halogen and a nonmetal
+Color:	Presumed very dark
+Atomic weight:	(210), no stable isotopes
+State:	solid
+Melting point:	302 oC, 575.2 K
+Boiling point:	337 oC, 610 K
+Electrons:	85
+Protons:	85
+Neutrons in most abundant isotope:	125
+Electron shells:	2,8,18,32,18,7
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p5
+Density @ 20oC:	7 g/cm3 approx.
+Atomic volume:	30 cm3/mol approx.
+Structure:	unknown
+Hardness:	mohs
+Specific heat capacity	–
+Heat of fusion	6 kJ mol-1 of I2
+Heat of atomization	92 kJ mol-1
+Heat of vaporization	40 kJ mol-1 of I2
+1st ionization energy	890 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	270 kJ mol-1
+
+Classification:	Radon is a noble gas and a nonmetal
+Color:	colorless
+Atomic weight:	(222), no stable isotopes
+State:	gas
+Melting point:	-71 oC, 202 K
+Boiling point:	-62 oC, 211 K
+Electrons:	86
+Protons:	86
+Neutrons in most abundant isotope:	136
+Electron shells:	2,8,18,32,18,8
+Electron configuration:	[Xe] 4f14 5d10 6s2 6p6
+Density @ 20oC:	0.00973 g/cm3
+Atomic volume:	50.5 cm3/mol
+Structure:	–
+Specific heat capacity	0.09 J g-1 K-1
+Heat of fusion	2.890 kJ mol-1
+Heat of atomization	0 kJ mol-1
+Heat of vaporization	16.40 kJ mol-1
+1st ionization energy	1037 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Francium is an alkali metal
+Color:	silver-gray-metallic (presumed)
+Atomic weight:	(223), no stable isotopes
+State:	solid
+Melting point:	27 oC , 300 K
+Boiling point:	677 oC, 950 K
+Electrons:	87
+Protons:	87
+Neutrons in most abundant isotope:	136
+Electron shells:	2,8,18,32,18,8,1
+Electron configuration:	[Rn] 7s1
+Density @ 20oC:	1.873 g/cm3
+Atomic volume:	71.07 cm3/mol
+Structure:	believed to be bcc: body-centered cubic
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	2 kJ mol-1
+Heat of atomization	73 kJ mol-1
+Heat of vaporization	64 kJ mol-1
+1st ionization energy	384 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Radium is an alkali earth metal
+Color:	silvery white
+Atomic weight:	(226), no stable isotopes
+State:	solid
+Melting point:	700 oC, 973 K
+Boiling point:	1500 oC, 1773 K
+Electrons:	88
+Protons:	88
+Neutrons in most abundant isotope:	138
+Electron shells:	2,8,18,32,18,8,2
+Electron configuration:	[Rn] 7s2
+Density @ 20oC:	5.5 g/cm3
+Atomic volume:	45.20 cm3/mol
+Structure:	bcc: body-centered cubic
+Hardness:	–
+Specific heat capacity	0.12 J g-1 K-1
+Heat of fusion	8.5 kJ mol-1
+Heat of atomization	159 kJ mol-1
+Heat of vaporization	113 kJ mol-1
+1st ionization energy	509.4 kJ mol-1
+2nd ionization energy	979.1 kJ mol-1
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Actinium
+Color:	silvery-white
+Atomic weight:	(227), no stable isotopes
+State:	solid
+Melting point:	1050 oC, 1323 K
+Boiling point:	3199 oC, 3471 K
+Electrons:	89
+Protons:	89
+Neutrons in most abundant isotope:	138
+Electron shells:	2,8,18,32,18,9,2
+Electron configuration:	[Rn] 6d1 7s2
+Density @ 20oC:	10.07 g/cm3
+Atomic volume:	22.54 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	mohs
+Specific heat capacity	27.2 J mol-1 K-1
+Heat of fusion	14.2 kJ mol-1
+Heat of atomization	406 kJ mol-1
+Heat of vaporization	400 kJ mol-1
+1st ionization energy	499 kJ mol-1
+2nd ionization energy	1170 kJ mol-1
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Thorium is an actinide metal
+Color:	silvery
+Atomic weight:	232.0381, no stable isotopes
+State:	solid
+Melting point:	1750 oC, 2023 K
+Boiling point:	4790 oC, 5063 K
+Electrons:	90
+Protons:	90
+Neutrons in most abundant isotope:	142
+Electron shells:	2,8,18,32,18,10,2
+Electron configuration:	[Rn] 6d2 7s2
+Density @ 20oC:	11.7 g/cm3
+Atomic volume:	19.9 cm3/mol
+Structure:	face-centered cubic
+Atomic volume:	19.9 cm3/mol
+Structure:	face-centered cubic
+Specific heat capacity	0.113 J g-1 K-1
+Heat of fusion	16.1 kJ mol-1
+Heat of atomization	575 kJ mol-1
+Heat of vaporization	514.4 kJ mol-1
+1st ionization energy	587 kJ mol-1
+2nd ionization energy	1110 kJ mol-1
+3rd ionization energy	1930 kJ mol-1
+Electron affinity	–
+
+Classification:	Protactinium is an actinide metal
+Color:	silvery
+Atomic weight:	231.0359, no stable isotopes
+State:	solid
+Melting point:	1570 oC, 1843 K
+Boiling point:	4000 oC, 4273 K
+Electrons:	91
+Protons:	91
+Neutrons in most abundant isotope:	140
+Electron shells:	2,8,18,32,20,9,2
+Electron configuration:	[Rn] 5f2 6d1 7s2
+Density @ 20oC:	15.4 g/cm3
+Atomic volume:	15.0 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	–
+Specific heat capacity	0.12 J g-1 K-1
+Heat of fusion	12.34 kJ mol-1
+Heat of atomization	–
+Heat of vaporization	481 kJ mol-1
+1st ionization energy	568 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Uranium is an actinide metal
+Color:	silvery-white
+Atomic weight:	238.0289, no stable isotopes
+State:	solid
+Melting point:	1135 oC, 1408 K
+Boiling point:	4130 oC, 4403 K
+Electrons:	92
+Protons:	92
+Neutrons in most abundant isotope:	146
+Electron shells:	2,8,18,32,21,9,2
+Electron configuration:	[Rn] 5f3 6d1 7s2
+Density @ 20oC:	18.9 g/cm3
+Atomic volume:	12.59 cm3/mol
+Structure:	orthorhombic
+Hardness:	6.0 mohs
+Specific heat capacity	0.12 J g-1 K-1
+Heat of fusion	8.520 kJ mol-1
+Heat of atomization	482 kJ mol-1
+Heat of vaporization	422.58 kJ mol-1
+1st ionization energy	597.6 kJ mol-1
+2nd ionization energy	1420 kJ mol-1
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Neptunium is an actinide metal
+Color:	silvery
+Atomic weight:	(237), no stable isotopes
+State:	solid
+Melting point:	640 oC, 913 K
+Boiling point:	3900 oC, 4173 K
+Electrons:	93
+Protons:	93
+Neutrons in most abundant isotope:	144
+Electron shells:	2,8,18,32,23,8,2
+Electron configuration:	[Rn] 5f4 6d1 7s2
+Density @ 20oC:	20.45 g/cm3
+Atomic volume:	11.62 cm3/mol
+Structure:	orthorhombic
+Hardness:	
+Specific heat capacity	0.11 J g-1 K-1
+Heat of fusion	3.2 kJ mol-1
+Heat of atomization	337 kJ mol-1
+Heat of vaporization	–
+1st ionization energy	597 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Plutonium is an actinide metal
+Color:	silvery-white
+Atomic weight:	(244), no stable isotopes
+State:	solid
+Melting point:	639.4 oC, 912.5 K
+Boiling point:	3230 oC, 3503 K
+Electrons:	94
+Protons:	94
+Neutrons in most abundant isotope:	150
+Electron shells:	2,8,18,32,24,8,2
+Electron configuration:	[Rn] 5f6 7s2
+Density @ 20oC:	19.8 g/cm3
+Atomic volume:	12.32 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	
+Specific heat capacity	0.13 J g-1 K-1
+Heat of fusion	2.840 kJ mol-1
+Heat of atomization	352 kJ mol-1
+Heat of vaporization	344.0 kJ mol-1
+1st ionization energy	585 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Americium is an actinide metal
+Color:	silvery-white
+Atomic weight:	(243), no stable isotopes
+State:	solid
+Melting point:	1176 oC, 1449 K
+Boiling point:	2607 oC, 2880 K
+Electrons:	95
+Protons:	95
+Neutrons in most abundant isotope:	148
+Electron shells:	2,8,18,32,25,8,2
+Electron configuration:	[Rn] 5f7 7s2
+Density @ 20oC:	13.67 g/cm3
+Atomic volume:	17.78 cm3/mol
+Structure:	hcp: hexagonal close-packed
+Hardness:	mohs
+Specific heat capacity	0.11 J g-1 K-1
+Heat of fusion	14.40 kJ mol-1
+Heat of atomization	266 kJ mol-1
+Heat of vaporization	238.5 kJ mol-1
+1st ionization energy	578 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Curium is an actinide metal
+Color:	silvery-white
+Atomic weight:	(247), no stable isotopes
+State:	solid
+Melting point:	1340 oC , 1613 K
+Boiling point:	3100 oC , 3373 K
+Electrons:	96
+Protons:	96
+Neutrons in most abundant isotope:	151
+Electron shells:	2,8,18,32,25,9,2
+Electron configuration:	[Rn] 5f7 6d1 7s2
+Density @ 20oC:	13.5 g/cm3
+Atomic volume:	18.28 cm3/mol
+Structure:	fcc: face-centered cubic
+Hardness:	
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	581 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Berkelium is an actinide metal
+Color:	silvery-white
+Atomic weight:	(247), no stable isotopes
+State:	solid
+Melting point:	986 oC, 1259.2 K
+Boiling point:	2900 oC, 3173 K
+Electrons:	97
+Protons:	97
+Neutrons in most abundant isotope:	150
+Electron shells:	2,8,18,32,27,8,2
+Electron configuration:	[Rn] 5f9 7s2
+Density @ 20oC:	14.79 g/cm3
+Atomic volume:	16.7 cm3/mol
+Structure:	double hexagonal close packed
+Hardness:	mohs
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	601 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Californium is an actinide metal
+Color:	silvery-white
+Atomic weight:	(251), no stable isotopes
+State:	solid
+Melting point:	900 oC, 1173 K
+Boiling point:	1472 oC, 1745 K (estimated)
+Electrons:	98
+Protons:	98
+Neutrons in most abundant isotope:	153
+Electron shells:	2,8,18,32,28,8,2
+Electron configuration:	[Rn] 5f10 7s2
+Density @ 20oC:	13.67 g/cm3
+Atomic volume:	18.4 cm3/mol
+Structure:	double hexagonal close-packed
+Hardness:	
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	608 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Einsteinium is an actinide metal
+Color:	
+Atomic weight:	(252), no stable isotopes
+State:	solid
+Melting point:	860 oC, 1133 K
+Boiling point:	
+Electrons:	99
+Protons:	99
+Neutrons in most abundant isotope:	153
+Electron shells:	2,8,18,32,29,8,2
+Electron configuration:	[Rn] 5f11 7s2
+Density @ 20oC:	8.84 g/cm3
+Atomic volume:	28.5 cm3/mol
+Structure:	close packed cubic
+Hardness:	
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	619 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Fermium is an actinide metal
+Color:	
+Atomic weight:	(257), no stable isotopes
+State:	solid
+Melting point:	1527 oC, 1800 K
+Boiling point:	
+Electrons:	100
+Protons:	100
+Neutrons in most abundant isotope:	157
+Electron shells:	2,8,18,32,30,8,2
+Electron configuration:	[Rn] 5f12 7s2
+Density @ 20oC:	8.84 g/cm3
+Atomic volume:	29.1 cm3/mol
+Structure:	close packed cubic
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	627 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Mendelevium is an actinide metal
+Color:	
+Atomic weight:	(258), no stable isotopes
+State:	solid
+Melting point:	827 oC, 1100 K
+Boiling point:	
+Electrons:	101
+Protons:	101
+Neutrons in most abundant isotope:	157
+Electron shells:	2,8,18,32,31,8,2
+Electron configuration:	[Rn] 5f12 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	close packed cubic
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	635 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Nobelium is an actinide metal
+Color:	
+Atomic weight:	(259), no stable isotopes
+State:	solid
+Melting point:	
+Boiling point:	
+Electrons:	102
+Protons:	102
+Neutrons in most abundant isotope:	157
+Electron shells:	2,8,18,32,32,8,2
+Electron configuration:	[Rn] 5f14 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	642 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Lawrencium is an actinide metal
+Color:	
+Atomic weight:	(262), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	103
+Protons:	103
+Neutrons in most abundant isotope:	159
+Electron shells:	2,8,18,32,32,9,2
+Electron configuration:	[Rn] 5f14 6d1 7s2
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	470 kJ mol-1
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Rutherfordium is a transition metal
+Color:	
+Atomic weight:	(267), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	104
+Protons:	104
+Neutrons in most abundant isotope:	163
+Electron shells:	2,8,18,32,32,10,2
+Electron configuration:	[Rn] 5f14 6d2 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Dubnium is a transition metal
+Color:	
+Atomic weight:	268, no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	105
+Protons:	105
+Neutrons in most abundant isotope:	163
+Electron shells:	2,8,18,32,32,11,2
+Electron configuration:	[Rn] 5f14 6d3 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Seaborgium is a transition metal
+Atomic weight:	(271), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	106
+Protons:	106
+Neutrons in most abundant isotope:	165
+Electron shells:	2,8,18,32,32,12,2
+Electron configuration:	[Rn] 5f14 6d4 7s2
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Bohrium is a transition metal
+Color:	steel gray presumed
+Atomic weight:	(270), no stable isotopes
+State:	solid
+Melting point:	
+Boiling point:	
+Electrons:	107
+Protons:	107
+Neutrons in most abundant isotope:	163
+Electron shells:	2,8,18,32,32,13,2
+Electron configuration:	[Rn] 5f14 6d5 7s2
+Density @ 20oC:
+Atomic volume:	
+Structure:	
+Hardness:	
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	660 kJ mol-1 (est)
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Hassium is a transition metal
+Color:	
+Atomic weight:	(269), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	108
+Protons:	108
+Neutrons in most abundant isotope:	161
+Electron shells:	2,8,18,32,32,14,2
+Electron configuration:	5f14 6d6 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Meitnerium is a transition metal
+Color:	
+Atomic weight:	(278), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	109
+Protons:	109
+Neutrons in most abundant isotope:	169
+Electron shells:	2,8,18,32,32,15,2
+Electron configuration:	[Rn] 5f14 6d7 7s2
+Density @ 20oC:
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Darmstadtium is a transition metal
+Color:	
+Atomic weight:	(281), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	110
+Protons:	110
+Neutrons in most abundant isotope:	171
+Electron shells:	2,8,18,32,32,17,1
+Electron configuration:	[Rn] 5f14 6d8 7s2
+Density @ 20oC:
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Roentgenium is a transition metal
+Color:	
+Atomic weight:	(281), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	111
+Protons:	111
+Neutrons in most abundant isotope:	170
+Electron shells:	2,8,18,32,32,17,2
+Electron configuration:	[Rn] 5f14 6d9 7s2
+Density @ 20oC:	
+Atomic volume:	–
+Structure:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Copernicium is a transition metal
+Color:	
+Atomic weight:	(285), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	112
+Protons:	112
+Neutrons in most abundant isotope:	173
+Electron shells:	2,8,18,32,32,18,2
+Electron configuration:	[Rn] 5f14 6d10 7s2
+Density @ 20oC:
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Nihonium is an ‘other metal’ (presumed)
+Atomic weight:	(286), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	113
+Protons:	113
+Neutrons in most abundant isotope:	173
+Electron shells:	2, 8, 18, 32, 32, 18, 3
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p1
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Flerovium is an ‘other metal’ (presumed)
+Atomic weight:	(289)
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Density @ 20 oC:	
+Electrons:	114
+Protons:	114
+Neutrons in most abundant isotope:	175
+Electron shells:	2, 8, 18, 32, 32, 18, 4
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p2
+Atomic volume:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Moscovium is an ‘other metal’ (presumed)
+Atomic weight:	(289), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	115
+Protons:	115
+Neutrons in most abundant isotope:	174
+Electron shells:	2, 8, 18, 32, 32, 18, 5
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p3
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Livermorium is an ‘other metal’ (presumed)
+Color:	
+Atomic weight:	(293), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	116
+Protons:	116
+Neutrons in most abundant isotope:	177
+Electron shells:	2, 8, 18, 32, 32, 18, 6
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p4
+Atomic volume:	–
+Structure:	–
+Hardness:	–
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Tennessine is a halogen (presumed)
+Color:	
+Atomic weight:	(294), no stable isotopes
+State:	solid (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	117
+Protons:	117
+Neutrons in most abundant isotope:	177
+Electron shells:	2, 8, 18, 32, 32, 18, 7
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p5 (presumed)
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+Classification:	Oganesson is a noble gas
+(or a noble solid?) and a nonmetal
+Atomic weight:	(294), no stable isotopes
+State:	gas (presumed)
+Melting point:	
+Boiling point:	
+Electrons:	118
+Protons:	118
+Neutrons in most abundant isotope:	176
+Electron shells:	2, 8, 18, 32, 32, 18, 8
+Electron configuration:	[Rn] 5f14 6d10 7s2 7p6 (presumed)
+Specific heat capacity	–
+Heat of fusion	–
+Heat of atomization	–
+Heat of vaporization	–
+1st ionization energy	–
+2nd ionization energy	–
+3rd ionization energy	–
+Electron affinity	–
+
+
+
+		
+		
