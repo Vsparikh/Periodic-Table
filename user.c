@@ -1,12 +1,12 @@
 /************************************************************************************/
-/*Name        : Fenil Patel,Jinesh Patel,Vrajang Parikh                             */
+/*Name        : Vrajang Parikh                                                      */
 /*Course Code : ICS4U1                                                              */
-/*Date        : December 11, 2019                                                   */
+/*Date        : December 11, 2018                                                   */
 /*Assignment  : ISU                                                                 */
 /*File name   : user.c                                                              */
 /*Description : method in this file will handle option 2 and 3 in main menu.It will */
 /*              take user input and write in the file and retrieve user information */
-/*              from file and display it											*/
+/*              from file and display it			               	    */
 /************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
