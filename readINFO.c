@@ -1,7 +1,7 @@
 /************************************************************************************/
 /*Name        : Vrajang Parikh                                                      */
 /*Course Code : ICS4U1                                                              */
-/*Date        : December 11, 2019                                                   */
+/*Date        : December 11, 2018                                                   */
 /*Assignment  : ISU                                                                 */
 /*File name   : readINFO.c                                                          */
 /*Description : method in this file will take atomic number and display information */
