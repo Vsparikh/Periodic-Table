@@ -101,11 +101,11 @@ void table()
 /*************************************************************/
 /* main_menu will display 5 options and take user            */
 /* input on that option using buttons.Return: option number  */
-/* options: 1- search elements                        	 	 */
-/*	        2- add information                       	     */
-/*	        3- access information entered earlier         	 */
-/*	        4- quit                                   		 */
-/*          5- User manual                            		 */
+/* options: 1- search elements                        	     */
+/*	        2- add information                    	     */
+/*	        3- access information entered earlier        */
+/*	        4- quit                           	     */
+/*          5- User manual                            	     */
 /*************************************************************/
 int main_menu()
 {
