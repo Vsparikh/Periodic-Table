@@ -1,7 +1,7 @@
 /************************************************************************************/
 /*Name        : Vrajang Parikh                                                      */
 /*Course Code : ICS4U1                                                              */
-/*Date        : December 11, 2019                                                   */
+/*Date        : December 11, 2018                                                   */
 /*Assignment  : ISU                                                                 */
 /*File name   : graphic.c                                                           */
 /*Description : methods in this file will handle graphics for the project. It will  */
