@@ -3,7 +3,7 @@
 /*Course Code : ICS4U1                                                              */
 /*Date        : December 11, 2019                                                   */
 /*Assignment  : ISU                                                                 */
-/*File name   : search.c                                                            */
+/*File name   : graphic.c                                                           */
 /*Description : methods in this file will handle graphics for the project. It will  */
 /*              display main menu, search menu, end screen and animate atom diagram */
 /************************************************************************************/
