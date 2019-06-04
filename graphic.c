@@ -1,5 +1,5 @@
 /************************************************************************************/
-/*Name        : Fenil Patel                                                         */
+/*Name        : Vrajang Parikh                                                      */
 /*Course Code : ICS4U1                                                              */
 /*Date        : December 11, 2019                                                   */
 /*Assignment  : ISU                                                                 */
@@ -212,9 +212,9 @@ int main_menu()
 /* search_menu will display 4 options and take user         */
 /* input on that option using buttons Return: option number */
 /* options: 1-  search by atomic number              	    */
-/*	        2-  search by atomic weight               		*/
-/*	        3-  search by name                        		*/
-/*	        4-  search by symbol                      		*/
+/*	        2-  search by atomic weight                 */
+/*	        3-  search by name              	    */
+/*	        4-  search by symbol                   	    */
 /************************************************************/
 int search_menu()
 {
